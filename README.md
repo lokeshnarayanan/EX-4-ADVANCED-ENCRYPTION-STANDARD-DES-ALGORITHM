@@ -11,6 +11,10 @@
 
 ## PROGRAM: 
 ```
+Name:Lokesh N
+Reg No:212222100023
+```
+```
 
 #include <stdio.h>
 #include <string.h>
